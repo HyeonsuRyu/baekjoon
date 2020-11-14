@@ -4,7 +4,6 @@
 코드는 백준에서의 문제 번호
 */
 
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -51,6 +50,7 @@ void code_1000() {
     printf("%d", A+B);
 }
 
+
 void code_1001() {
     int A, B;
     scanf("%d %d", &A, &B);
@@ -80,6 +80,7 @@ void code_10430() {
     scanf("%d %d %d", &A, &B, &C);
     printf("%d\n%d\n%d\n%d", (A+B)%C, ((A%C) + (B%C))%C, (A*B)%C, ((A%C) * (B%C))%C);
 }
+
 
 void code_2588() {
     int A, B, C, D, E;
