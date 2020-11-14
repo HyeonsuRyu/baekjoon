@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605340696 source:d:\programming\baekjoon\baekjoon_lvl1\main.c
+	<stdio.h>
+	<stdlib.h>
+
